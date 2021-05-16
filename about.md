@@ -15,8 +15,7 @@
 </style>
 
 <a href="https://suhasbrao.github.io/" >
-  <button class="btn"><i class="material-icons-outlined"></i>
-    <span class="material-icons-outlined">home</span>
+  <button class="btn"><i class="material-icons">home</i>
   </button>
  </a>
 
