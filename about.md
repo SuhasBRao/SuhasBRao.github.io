@@ -13,7 +13,7 @@
     background-color: RoyalBlue;
   }
   .back-to-top {
-    background-color: #000000;
+    background-color: #04AA6D;
     color: #FFFFFF;
     opacity: 0;
     transition: opacity .6s ease-in-out;
@@ -24,7 +24,7 @@
     width: 50px;
     height: 50px;
     box-sizing: border-box;
-    border-radius: 0%;
+    border-radius: 50%;
   }
   a.back-to-top {
     font-weight: 1000;
@@ -37,7 +37,7 @@
     padding-top: 14px;
   }
   .back-to-top:hover, .back-to-top:focus, .back-to-top:visited {
-    color: #FFFFFF;
+    color: #ddd;
   }
   .back-to-top.show {
     opacity: 1;
