@@ -4,7 +4,7 @@
   background-color: DodgerBlue;
   border: none;
   color: white;
-  padding: 5px 10px;
+  padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
 }
@@ -16,9 +16,8 @@
 
 <a href="https://suhasbrao.github.io/" >
   <button class="btn"><i class="material-icons">home</i>
-    
-<!--
-#### About Me | [Go Back](README.md)-->
+  </button>
+ </a>
 
 ---
 
@@ -28,8 +27,9 @@
 
 <p align = "center"> 
 <img src = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/SuhasBRao/SuhasBRao.github.io/master/assets/Profile (2).jpg?&h=300&w=300&fit=cover&mask=circle&maxage=7d&l=8" />
-</p><!--https://github.com/neutraltone/awesome-stock-resources/blob/master/img/splash.jpg?raw=true
--->
+</p>
+<!--https://github.com/neutraltone/awesome-stock-resources/blob/master/img/splash.jpg?raw=true-->
+
 <p align="center">
   <samp>I'm Suhas B, pursuing B.E in Electronics and Communications. I'm an Open Source enthusiast who also happens to be a Pencil artist. I love Programming with Python.
    I'm more of a self learner who loves learning things from Internet apart from classroom.
