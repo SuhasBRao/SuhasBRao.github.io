@@ -37,7 +37,8 @@
     padding-top: 14px;
   }
   .back-to-top:hover, .back-to-top:focus, .back-to-top:visited {
-    color: #ddd;
+    background-color: #ddd
+    color: white;
   }
   .back-to-top.show {
     opacity: 1;
