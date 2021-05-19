@@ -217,7 +217,7 @@ Face detection is an AI-based computer technology that can identify and locate t
 </a></p>
 
 #### More projects 
-<section>
+<section align = "center">
 <div class="dots-3"></div>
 </section>
 
