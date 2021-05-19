@@ -122,23 +122,6 @@
   });
 </script>
  <!-- This function is used to create read more button -->
-<script>
-  function myFunction() {
-    var dots = document.getElementById("dots");
-    var moreText = document.getElementById("more");
-    var btnText = document.getElementById("myBtn");
-
-    if (dots.style.display === "none") {
-      dots.style.display = "inline";
-      btnText.innerHTML = "Read more"; 
-      moreText.style.display = "none";
-    } else {
-      dots.style.display = "none";
-      btnText.innerHTML = "Read less"; 
-      moreText.style.display = "inline";
-    }
-  }
-</script>
 
 <p id="about">
   <h1 align="left"> 👨‍💻 Whoami </h1>
@@ -187,7 +170,6 @@
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasBRao)
 -->
 
-</section>
 
 <p id = "Project">
 <h3><samp>Project sites:</samp></h3>
@@ -216,7 +198,7 @@ Face detection is an AI-based computer technology that can identify and locate t
   </button>
 </a></p>
 
-#### More projects 
+<b> More projects </b>
 <section align = "center">
 <div class="dots-3"></div>
 </section>
