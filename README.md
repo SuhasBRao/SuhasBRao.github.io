@@ -90,7 +90,7 @@
   }
 </style>
 
-<a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;">Top</a>
+<a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;"><i class="material-icons">arrow_upward</i></a>
 <!--####################################################-->
 
 <!-- Fades in the button when you scroll down -->
