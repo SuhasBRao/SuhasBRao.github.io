@@ -82,22 +82,22 @@
 ---
 
 <!--<h1 align="center"> 👋 </h1>-->
+<p id="about">
+  <h1 align="center"> 👨‍💻 Whoami </h1>
+  <p align = "center"> 
+  <img src = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/SuhasBRao/SuhasBRao.github.io/master/assets/Profile (2).jpg?&h=300&w=300&fit=cover&mask=circle&maxage=7d&l=8" />
+  </p>
+  <!--https://github.com/neutraltone/awesome-stock-resources/blob/master/img/splash.jpg?raw=true-->
 
-<h1 align="center"> 👨‍💻 Whoami </h1>
-
-<p align = "center"> 
-<img src = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/SuhasBRao/SuhasBRao.github.io/master/assets/Profile (2).jpg?&h=300&w=300&fit=cover&mask=circle&maxage=7d&l=8" />
-</p>
-<!--https://github.com/neutraltone/awesome-stock-resources/blob/master/img/splash.jpg?raw=true-->
-
-<p align="center">
-  <samp>I'm Suhas B, pursuing B.E in Electronics and Communications. I'm an Open Source enthusiast who also happens to be a Pencil artist. I love Programming with Python.
-   I'm more of a self learner who loves learning things from Internet apart from classroom.
-  </samp>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=green alt="https://suhasbrao.github.io/" /> 
- 
-  <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" color=green alt="https://github.com/SuhasBRao" /> -->
+  <p align="center">
+    <samp>I'm Suhas B, pursuing B.E in Electronics and Communications. I'm an Open Source enthusiast who also happens to be a Pencil artist. I love Programming with Python.
+    I'm more of a self learner who loves learning things from Internet apart from classroom.
+    </samp>
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=green alt="https://suhasbrao.github.io/" /> 
+  
+    <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" color=green alt="https://github.com/SuhasBRao" /> -->
+  </p>
 </p>
 
 <h2 align = "center" >
@@ -131,39 +131,39 @@
 
 <h2  align="center">&#x1F4EC; Reach me on</h2>
 
-<p align = "center">  
-<a href="https://www.instagram.com/suhasbrao/">
-  <img
-    alt="Instagram"
-    src = "https://image.flaticon.com/icons/png/128/185/185985.png"
-    width = 35
-    height = 35
-   />
-</a>
-&emsp;
-<a href="mailto:raos04567@gmail.com?subject=Hello%20Suhas B,%20From%20Github">
-  <img 
-    src = "https://image.flaticon.com/icons/png/128/552/552486.png"
-    width = 35
-    height = 35   
- />
-</a>
-&emsp;
-<a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
-  <img 
-    src = "https://image.flaticon.com/icons/png/128/185/185964.png"
-    width = 35
-    height = 35   
- />
-</a>
-&emsp;
-<a href="https://www.quora.com/profile/Suhas-Rao-66">
-  <img 
-    src = "https://image.flaticon.com/icons/png/128/185/185976.png"
-    width = 35
-    height = 35   
- />
-</a>
+<p id = "reach_me_on" align = "center" >  
+  <a href="https://www.instagram.com/suhasbrao/">
+    <img
+      alt="Instagram"
+      src = "https://image.flaticon.com/icons/png/128/185/185985.png"
+      width = 35
+      height = 35
+    />
+  </a>
+  &emsp;
+  <a href="mailto:raos04567@gmail.com?subject=Hello%20Suhas B,%20From%20Github">
+    <img 
+      src = "https://image.flaticon.com/icons/png/128/552/552486.png"
+      width = 35
+      height = 35   
+    />
+  </a>
+  &emsp;
+  <a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
+    <img 
+      src = "https://image.flaticon.com/icons/png/128/185/185964.png"
+      width = 35
+      height = 35   
+    />
+  </a>
+  &emsp;
+  <a href="https://www.quora.com/profile/Suhas-Rao-66">
+    <img 
+      src = "https://image.flaticon.com/icons/png/128/185/185976.png"
+      width = 35
+      height = 35   
+    />
+  </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
