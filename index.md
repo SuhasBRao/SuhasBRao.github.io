@@ -40,7 +40,7 @@
   /* Below is used to for go back to top button */
   /* ################################################################################*/
   .back-to-top {
-      background-color: #04AA6D;
+      background-color: DodgerBlue;
       color: #FFFFFF;
       opacity: 0;
       transition: opacity .6s ease-in-out;
