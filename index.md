@@ -142,7 +142,7 @@
   </p>
 </p>
 <h1 align = "left" >
- <samp> <img src = "https://image.flaticon.com/icons/png/128/1087/1087840.png" width = 30 height = 30 />
+ <samp> <img src = "https://image.flaticon.com/icons/png/128/1087/1087840.png" width = 50 height = 50 />
   Technologies
  </samp>
 </h1>
@@ -170,7 +170,8 @@
 
 
 <p id = "Project">
-<h1><samp>Projects </samp></h1>
+<h1><samp><img src = "https://image.flaticon.com/icons/png/128/4005/4005054.png" width = 50 height = 50 />
+  Projects </samp></h1>
 
 <h3><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbestanimations.com%2FAnimals%2FReptiles%2Fsnakes%2Fanimated-cobra-snake-gif-2.gif&f=1&nofb=1" width = 70 height = 70/>Snake game using Python</h3>
 <p style="font-family:perpetua;font-size:130%;">Who has not played the historic Snake game on Nokia mobile phones. Still, to this very day, people of all ages will have heard of Snake – they might have even played the original, or know an older person who has. I myself was addicted to the game back in my childhood. Though modern games have advanced user interfaces and better graphics, I still miss that excitement while playing them. I always wanted to recreate that excitement and feeling, Thanks to the programming languages which allow us to build such cool stuffs.
@@ -179,7 +180,7 @@
   </button>
 </a></p>
 
-<h3><img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fmicrophone-gif-12.gif&f=1&nofb=1" width = 50 height = 50 />Text to Speech Converter</h3>
+<h3 style="font-size:130%;"><img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fmicrophone-gif-12.gif&f=1&nofb=1" width = 50 height = 50 />Text to Speech Converter</h3>
 <p style="font-family:perpetua;font-size:130%;">The project aims to convert text to speech. This is achieved using gTTS engine which has very natural sounding voices. Python language has been used. Python allows us to write a neat and simple code to complete the work. Here the user needs to be connected to the internet while running the .py file. 
 <a href = "https://suhasbrao.github.io/Text-To-Speech/" >
   <button class="btn"> View more
@@ -199,10 +200,11 @@ Face detection is an AI-based computer technology that can identify and locate t
 <div class="dots-3"></div>
 </section>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <h1  align="left">&#x1F4EC; Reach me on</h1>
 
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <p id = "reach_me_on" align = "center" >
   <a href="https://www.instagram.com/suhasbrao/">
     <img
