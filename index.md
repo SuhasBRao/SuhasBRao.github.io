@@ -201,37 +201,39 @@ Face detection is an AI-based computer technology that can identify and locate t
 
 <h2  align="center">&#x1F4EC; Reach me on</h2>
 
-<p id = "reach_me_on" align = "center" >  
+
+
+<p id = "reach_me_on" align = "center" >
   <a href="https://www.instagram.com/suhasbrao/">
     <img
       alt="Instagram"
       src = "https://image.flaticon.com/icons/png/128/185/185985.png"
-      width = 35
-      height = 35
+      width = 50
+      height = 50
     />
   </a>
   &emsp;
   <a href="mailto:raos04567@gmail.com?subject=Hello%20Suhas B,%20From%20Github">
     <img 
       src = "https://image.flaticon.com/icons/png/128/552/552486.png"
-      width = 35
-      height = 35   
+      width = 50
+      height = 50   
     />
   </a>
   &emsp;
   <a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
     <img 
       src = "https://image.flaticon.com/icons/png/128/185/185964.png"
-      width = 35
-      height = 35   
+      width = 50
+      height = 50   
     />
   </a>
   &emsp;
   <a href="https://www.quora.com/profile/Suhas-Rao-66">
     <img 
       src = "https://image.flaticon.com/icons/png/128/185/185976.png"
-      width = 35
-      height = 35   
+      width = 50
+      height = 50   
     />
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
