@@ -188,7 +188,7 @@
 </a></p>
 
 <h3><img src="https://media0.giphy.com/media/rxFW7n1NU7E6bwJ5ht/giphy.gif?cid=ecf05e4744p6phdsmu8nr73m9k0rixokm92401r15rsz1r62&rid=giphy.gif&ct=g" width = 65 height = 65 /> Face Detection</h3>
-<p style="font-family:perpetua;font-size:130%;">Face detection is the first and foremost step for face recognition. It is used to detect faces in images. Face detection is a part of object detection and can be used in many areas such as security, bio-metrics, law-enforcement, entertainment, personal safety etc.
+<p style="font-family:perpetua;font-size:150%;">Face detection is the first and foremost step for face recognition. It is used to detect faces in images. Face detection is a part of object detection and can be used in many areas such as security, bio-metrics, law-enforcement, entertainment, personal safety etc.
 Face detection is an AI-based computer technology that can identify and locate the presence of human faces in digital photos and videos. Due to the advancements in face detection technology, It is now possible to detect faces in an image or video, regardless of head pose, lighting conditions, and skin tone
 <a href = 'https://suhasbrao.github.io/FaceDetection/' >
   <button class="btn"> View more
