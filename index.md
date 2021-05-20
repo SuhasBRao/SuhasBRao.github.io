@@ -124,7 +124,7 @@
  <!-- This function is used to create read more button -->
 
 <p id="about">
-  <h1 align="left"> 👨‍💻 Whoami </h1>
+  <h1 align="left"><samp> 👨‍💻 Whoami </samp></h1>
 
   <p align = "center"> 
   <img src = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/SuhasBRao/SuhasBRao.github.io/master/assets/Profile (2).jpg?&h=300&w=300&fit=cover&mask=circle&maxage=7d&l=8" />
