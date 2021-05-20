@@ -141,11 +141,11 @@
     <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" color=green alt="https://github.com/SuhasBRao" /> -->
   </p>
 </p>
-<h2 align = "center" >
+<h1 align = "center" >
  <samp> <img src = "https://image.flaticon.com/icons/png/128/1087/1087840.png" width = 30 height = 30 />
   Technologies
  </samp>
-</h2>
+</h1>
 
 ##### Languages
 
@@ -170,7 +170,7 @@
 
 
 <p id = "Project">
-<h3><samp>Project sites:</samp></h3>
+<h1><samp>Project sites:</samp></h1>
 
 <h3><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbestanimations.com%2FAnimals%2FReptiles%2Fsnakes%2Fanimated-cobra-snake-gif-2.gif&f=1&nofb=1" width = 70 height = 70/>Snake game using Python</h3>
 <p style="font-family:perpetua;">Who has not played the historic Snake game on Nokia mobile phones. Still, to this very day, people of all ages will have heard of Snake – they might have even played the original, or know an older person who has. I myself was addicted to the game back in my childhood. Though modern games have advanced user interfaces and better graphics, I still miss that excitement while playing them. I always wanted to recreate that excitement and feeling, Thanks to the programming languages which allow us to build such cool stuffs.
@@ -199,7 +199,7 @@ Face detection is an AI-based computer technology that can identify and locate t
 <div class="dots-3"></div>
 </section>
 
-<h2  align="center">&#x1F4EC; Reach me on</h2>
+<h1  align="center">&#x1F4EC; Reach me on</h1>
 
 
 
