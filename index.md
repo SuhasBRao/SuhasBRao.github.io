@@ -2,6 +2,8 @@
   <img src = "https://i.pinimg.com/originals/d7/bd/f1/d7bdf125ad47c0a85af91b082478a28d.gif" width = 100 height = 100 /> Namaste!
 </h3>
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+<!-- Style tag for buttons -->
 <style>
   .btn {
     background-color: DodgerBlue;
@@ -124,13 +126,16 @@
  <!-- This function is used to create read more button -->
 
 <p id="about">
-  <h1 align="left"><samp> 👨‍💻 Whoami </samp></h1>
-
+  <h1 align="left">
+    <samp>
+      <img src = "https://image.flaticon.com/icons/png/512/3060/3060018.png" width = 50 height = 50 /> Whoami 
+    </samp>
+  </h1>
+<!-- below is used to display image -->
   <p align = "center"> 
   <img src = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/SuhasBRao/SuhasBRao.github.io/master/assets/Profile (2).jpg?&h=300&w=300&fit=cover&mask=circle&maxage=7d&l=8" />
   </p>
-  <!--https://github.com/neutraltone/awesome-stock-resources/blob/master/img/splash.jpg?raw=true-->
-
+<!-- About me -->
   <p align="center">
     <samp>Pursuing B.E in Electronics and Communication. Passionate about implementing and launching new projects. I'm more of a self learner who loves to learn from internet apart from classroom. <br>Ever since I started using Linux in my first year of college, I’m exploring its nuts and bolts.
     Open source Enthusiast and passionate about coding.
@@ -141,8 +146,11 @@
     <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" color=green alt="https://github.com/SuhasBRao" /> -->
   </p>
 </p>
+
+<!-- Tools and Technology section -->
 <h1 align = "left" >
- <samp> <img src = "https://image.flaticon.com/icons/png/128/1087/1087840.png" width = 50 height = 50 />
+ <samp>
+  <img src = "https://image.flaticon.com/icons/png/128/1087/1087840.png" width = 50 height = 50 />
   Technologies
  </samp>
 </h1>
@@ -163,15 +171,16 @@
 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=SuhasBRao)
-<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasBRao)
--->
 
-
+<!-- Project setion --->
 <p id = "Project">
-<h1><samp><img src = "https://image.flaticon.com/icons/png/128/4005/4005054.png" width = 50 height = 50 />
-  Projects </samp></h1>
+<h1>
+  <samp>
+  <img src = "https://image.flaticon.com/icons/png/128/4005/4005054.png" width = 50 height = 50 />
+  Projects 
+  </samp>
+</h1>
 
 <h3><img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbestanimations.com%2FAnimals%2FReptiles%2Fsnakes%2Fanimated-cobra-snake-gif-2.gif&f=1&nofb=1" width = 70 height = 70/>Snake game using Python</h3>
 <p style="font-family:perpetua;font-size:130%;">Who has not played the historic Snake game on Nokia mobile phones. Still, to this very day, people of all ages will have heard of Snake – they might have even played the original, or know an older person who has. I myself was addicted to the game back in my childhood. Though modern games have advanced user interfaces and better graphics, I still miss that excitement while playing them. I always wanted to recreate that excitement and feeling, Thanks to the programming languages which allow us to build such cool stuffs.
@@ -195,15 +204,15 @@ Face detection is an AI-based computer technology that can identify and locate t
   </button>
 </a></p>
 
-<b> More projects </b>
+<h4> More projects </h4>
 <section align = "center">
 <div class="dots-3"></div>
 </section>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<!-- Reach me on section -->
 <h1  align="left">&#x1F4EC; Reach me on</h1>
-
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p id = "reach_me_on" align = "center" >
   <a href="https://www.instagram.com/suhasbrao/">
