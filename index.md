@@ -55,7 +55,10 @@
       padding-left: 2px;
       padding-top: 14px;
     }
-    .back-to-top:hover, .back-to-top:focus, .back-to-top:visited {
+    .back-to-top:hover {
+      background-color: RoyalBlue;
+      }
+    .back-to-top:focus, .back-to-top:visited {
       color: white;
     }
     .back-to-top.show {
@@ -118,7 +121,7 @@
 <p id="about">
   <h1 align="left">
     <samp>
-      <img src = "https://image.flaticon.com/icons/png/512/3060/3060018.png" width = 50 height = 50 /> Whoami 
+      <img src = "https://image.flaticon.com/icons/png/128/1177/1177568.png" width = 50 height = 50 /> Whoami 
     </samp>
   </h1>
 <!-- below is used to display image -->
