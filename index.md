@@ -18,9 +18,45 @@
   .btn:hover {
     background-color: RoyalBlue;
   }
+  a.button1{
+   display:inline-block;
+   padding:0.35em 1.2em;
+   border:0.1em solid #FFFFFF;
+   margin:0 0.3em 0.3em 0;
+   border-radius:0.12em;
+   box-sizing: border-box;
+   text-decoration:none;
+   font-family:'Roboto',sans-serif;
+   font-weight:300;
+   color:#FFFFFF;
+   text-align:center;
+   transition: all 0.2s;
+  }
+  a.button1:hover{
+   color:#000000;
+   background-color:#FFFFFF;
+  }
+  @media all and (max-width:30em){
+   a.button1{
+    display:block;
+    margin:0.4em auto;
+   }
+  }
   /* style for remix-icons */
   /* ################################################################################*/
-  
+    .bouncy{
+     animation:bouncy 5s infinite linear;
+     position:relative;
+    }
+    @keyframes bouncy {
+     0%{top:0em}
+     40%{top:0em}
+     43%{top:-0.9em}
+     46%{top:0em}
+     48%{top:-0.4em}
+     50%{top:0em}
+     100%{top:0em;}
+    }
   /* Below is used to for go back to top button */
   /* ################################################################################*/
   .back-to-top {
@@ -235,7 +271,7 @@ Face detection is an AI-based computer technology that can identify and locate t
     />
   </a>
   &emsp;
-  <a href="https://www.quora.com/profile/Suhas-Rao-66">
+  <a href="https://www.quora.com/profile/Suhas-Rao-66" class="button1 bouncy">
     <img 
       src = "https://image.flaticon.com/icons/png/128/185/185976.png"
       width = 50
@@ -244,3 +280,8 @@ Face detection is an AI-based computer technology that can identify and locate t
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<a href="something" class="button1 bouncy">Facebark</a>
+<a href="something" class="button1 bouncy" style="animation-delay:0.07s">SJWHub</a>
+<a href="something" class="button1 bouncy" style="animation-delay:0.14s">Plebbit</a>
+<a href="something" class="button1 bouncy" style="animation-delay:0.21s">4chin</a>
