@@ -24,9 +24,9 @@
     background-color: DodgerBlue;
     border: none;
     color: white;
+    text-align:center;
     padding: 5px 10px;
     font-size: 30px;
-    width: 30px;
     text-decoration: none;
     border-radius:50%
   }
@@ -39,9 +39,9 @@
     background-color: mediumorchid;
     border: none;
     color: white;
+    text-align: center;
     padding: 5px 10px;
     font-size: 30px;
-    width: 30px;
     text-decoration: none;
     border-radius:50%
   }
@@ -54,9 +54,9 @@
     background-color: mediumslateblue;
     border: none;
     color: white;
+    text-align:center;
     padding: 5px 10px;
     font-size: 30px;
-    width: 30px;
     text-decoration: none;
     border-radius:50%
   }
