@@ -11,24 +11,60 @@
     border: none;
     color: white;
     padding: 5px 10px;
-    font-size: 16px;
+    font-size: 20px;
     cursor: pointer;
   }
   /* Darker background on mouse-over */
   .btn:hover {
     background-color: RoyalBlue;
   }
-  .insta_button {
-  width: 150px;
-  height: 150px;
-  background-image: url("https://image.flaticon.com/icons/png/128/185/185985.png");
-  background-size: cover;
-  background-color: #eee;
-  }
-  
   /* style for remix-icons */
   /* ################################################################################*/
+  .in_button{
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    font-size: 35px;
+    width: 30px;
+    text-decoration: none;
+    border-radius:50%
+  }
+  .in_button:hover {
+    background-color: RoyalBlue;
+    color: white;
+  }
   
+  .insta_button{
+    background-color: mediumorchid;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    font-size: 35px;
+    width: 30px;
+    text-decoration: none;
+    border-radius:50%
+  }
+  .insta_button:hover{
+    background-color: darkorchid;
+    color:white;
+  }
+
+  .mail{
+    background-color: mediumslateblue;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    font-size: 35px;
+    width: 30px;
+    text-decoration: none;
+    border-radius:50%
+  }
+  .mail:hover{
+    background-color: darkslateblue;
+    color:white;
+
+  }
   /* Below is used to for go back to top button */
   /* ################################################################################*/
   .back-to-top {
@@ -214,37 +250,17 @@ Face detection is an AI-based computer technology that can identify and locate t
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<button id="insta_button">click me</button>
-
 <!-- Reach me on section -->
 <h1  align="left">&#x1F4EC; Reach me on</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p id = "reach_me_on" align = "center" >
-  <a href="https://www.instagram.com/suhasbrao/">
-    <img
-      alt="Instagram"
-      src = "https://image.flaticon.com/icons/png/128/185/185985.png"
-      width = 50
-      height = 50
-    />
-  </a>
+  <a href="https://www.instagram.com/suhasbrao/" class="insta_button"><i class="ri-instagram-line"></i></a>
   &emsp;
-  <a href="mailto:raos04567@gmail.com?subject=Hello%20Suhas B,%20From%20Github">
-    <img 
-      src = "https://image.flaticon.com/icons/png/128/552/552486.png"
-      width = 50
-      height = 50   
-    />
-  </a>
+  <a href="mailto:raos04567@gmail.com?subject=Hello%20Suhas B,%20From%20Github" class="mail"><i class="ri-mail-fill"></i></a>
   &emsp;
-  <a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
-    <img 
-      src = "https://image.flaticon.com/icons/png/128/185/185964.png"
-      width = 50
-      height = 50   
-    />
-  </a>
+  <a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge" class="in_button" style="display: inline;"><i class="ri-linkedin-box-fill"></i></a>
   &emsp;
+  <!--
   <a href="https://www.quora.com/profile/Suhas-Rao-66">
     <img 
       src = "https://image.flaticon.com/icons/png/128/185/185976.png"
@@ -252,5 +268,6 @@ Face detection is an AI-based computer technology that can identify and locate t
       height = 50   
     />
   </a>
+  -->
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
