@@ -25,7 +25,7 @@
     border: none;
     color: white;
     padding: 5px 10px;
-    font-size: 35px;
+    font-size: 30px;
     width: 30px;
     text-decoration: none;
     border-radius:50%
@@ -40,7 +40,7 @@
     border: none;
     color: white;
     padding: 5px 10px;
-    font-size: 35px;
+    font-size: 30px;
     width: 30px;
     text-decoration: none;
     border-radius:50%
@@ -55,7 +55,7 @@
     border: none;
     color: white;
     padding: 5px 10px;
-    font-size: 35px;
+    font-size: 30px;
     width: 30px;
     text-decoration: none;
     border-radius:50%
