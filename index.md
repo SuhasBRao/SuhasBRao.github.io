@@ -1,7 +1,8 @@
 <h3 align = "center" >
   <img src = "https://i.pinimg.com/originals/d7/bd/f1/d7bdf125ad47c0a85af91b082478a28d.gif" width = 100 height = 100 /> Namaste!
 </h3>
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<!--> <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"> -->
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
 
 <!-- Style tag for buttons -->
 <style>
@@ -17,28 +18,17 @@
   .btn:hover {
     background-color: RoyalBlue;
   }
-  /* style for material-icons */
-  /* ################################################################################*/
-  .material-icons {
-    font-family: 'Material Icons';
-    font-weight: normal;
-    font-style: normal;
-    font-size: 24px;  
-    display: inline-block;
-    line-height: 1;
-    text-transform: none;
-    letter-spacing: normal;
-    word-wrap: normal;
-    white-space: nowrap;
-    direction: ltr;
-    -webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
-    /* Support for Firefox. */
-    -moz-osx-font-smoothing: grayscale;
-    /* Support for IE. */
-    font-feature-settings: 'liga';
+  .insta_button {
+  width: 150px;
+  height: 150px;
+  background-image: url("https://image.flaticon.com/icons/png/128/185/185985.png");
+  background-size: cover;
+  background-color: #eee;
   }
-  .material-icons.md-16 { font-size: 16px; }
+  
+  /* style for remix-icons */
+  /* ################################################################################*/
+  
   /* Below is used to for go back to top button */
   /* ################################################################################*/
   .back-to-top {
@@ -92,7 +82,7 @@
   }
 </style>
 
-<a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;"><i class="material-icons">arrow_upward</i></a>
+<a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;"><i class="ri-arrow-up-line"></i></a>
 <!--####################################################-->
 
 <!-- Fades in the button when you scroll down -->
@@ -220,6 +210,8 @@ Face detection is an AI-based computer technology that can identify and locate t
 </section>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+<button id="insta_button">click me</button>
 
 <!-- Reach me on section -->
 <h1  align="left">&#x1F4EC; Reach me on</h1>
