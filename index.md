@@ -65,8 +65,10 @@
       padding-left: 2px;
       padding-top: 14px;
     }
-    .back-to-top:hover, .back-to-top:focus, .back-to-top:visited {
+    .back-to-top:hover {
       background-color: RoyalBlue;
+      }
+    .back-to-top:focus, .back-to-top:visited {
       color: white;
     }
     .back-to-top.show {
