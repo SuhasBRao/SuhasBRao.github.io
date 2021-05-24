@@ -28,19 +28,17 @@
   font-size: 20px;
   cursor: pointer;
 }
+.btn {
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
 /* Darker background on mouse-over */
 .btn:hover {
   background-color: RoyalBlue;
 }
-/* style for remix-icons */
-/* ################################################################################*/
 
-/* Below is used to for go back to top button */
-/* ################################################################################*/
 .back-to-top {
     background-color: DodgerBlue;
     color: #FFFFFF;
-    opacity: 0;
     transition: opacity .6s ease-in-out;
     z-index: 999;
     position: fixed;
@@ -66,9 +64,6 @@
     }
   .back-to-top:focus, .back-to-top:visited {
     color: white;
-  }
-  .back-to-top.show {
-    opacity: 1;
   }
 /* side navigation bar */
 /* loader */
