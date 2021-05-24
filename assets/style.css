@@ -3,23 +3,12 @@
 
 @import "{{ site.theme }}";
 
-.btn2 {
-  border: 2px solid black;
-  background-color: white;
-  color: black;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer;
+.hr1{
+  border:0;
+  height: 3px;
+  background: #095484;
+  background-image: linear-gradient(to right,#ccc,#095484,#ccc);
 }
-.default {
-  border-color: #e7e7e7;
-  color: black;
-}
-
-.default:hover {
-  background: #e7e7e7;
-}
-
 .btn {
   background-color: DodgerBlue;
   border: none;
@@ -65,7 +54,10 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   .back-to-top:focus, .back-to-top:visited {
     color: white;
   }
-/* side navigation bar */
+  .back-to-top {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
 /* loader */
 .dots-3 {
   width:50px;

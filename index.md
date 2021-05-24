@@ -1,14 +1,12 @@
 <h3 align = "center" >
   <img src = "https://i.pinimg.com/originals/d7/bd/f1/d7bdf125ad47c0a85af91b082478a28d.gif" width = 100 height = 100 /> Namaste!
 </h3>
-<!--> <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"> -->
+
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
 <link href="/assets/style.css" rel="stylesheet">
 
 <a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;"><i class="ri-arrow-up-line"></i></a>
-<!--####################################################-->
 
-<!-- Fades in the button when you scroll down -->
 <script>
   var link = document.getElementById("back-to-top");
   var amountScrolled = 250;
@@ -43,6 +41,7 @@
       <img src = "https://image.flaticon.com/icons/png/128/1177/1177568.png" width = 50 height = 50 /> Whoami
     </samp>
   </h1>
+  <hr class="hr1" />
 <!-- below is used to display image -->
   <p align = "center">
   <img src = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/SuhasBRao/SuhasBRao.github.io/master/assets/Profile (2).jpg?&h=300&w=300&fit=cover&mask=circle&maxage=7d&l=8" />
@@ -66,20 +65,20 @@
   Technologies
  </samp>
 </h1>
-
-##### Languages
+<hr class="hr1" />
+<h4>Languages</h4>:
 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c++&logoColor=white&style=for-the-badge" />
 
-##### Libraries:
+<h4>Libraries</h4>:
 
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv5&logoColor=white&style=for-the-badge" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy3&logoColor=white&style=for-the-badge" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
 
-##### Version Control System:
+<h4>Version Control System</h4>:
 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 
@@ -93,7 +92,7 @@
   Projects
   </samp>
 </h1>
-
+<hr class="hr1" />
 <h3>
   <img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbestanimations.com%2FAnimals%2FReptiles%2Fsnakes%2Fanimated-cobra-snake-gif-2.gif&f=1&nofb=1" width = 70 height = 70/>
   Snake game using Python
@@ -126,15 +125,14 @@ Face detection is an AI-based computer technology that can identify and locate t
   </button>
 </a></p>
 
-<h4> More projects </h4>
-<section align = "center">
+<h3> More projects </h3>
 <div class="dots-3"></div>
-</section>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- Reach me on section -->
 <h1  align="left">&#x1F4EC; Reach me on</h1>
+<hr class="hr1" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p id = "reach_me_on" align = "center" >
   <a href="https://www.instagram.com/suhasbrao/">
