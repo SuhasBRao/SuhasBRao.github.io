@@ -66,19 +66,19 @@
  </samp>
 </h1>
 <hr class="hr1" />
-<h4>Languages</h4>:
+<h4>Languages:</h4>
 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c++&logoColor=white&style=for-the-badge" />
 
-<h4>Libraries</h4>:
+<h4>Libraries:</h4>
 
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv5&logoColor=white&style=for-the-badge" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy3&logoColor=white&style=for-the-badge" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
 
-<h4>Version Control System</h4>:
+<h4>Version Control System:</h4>
 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 
@@ -94,7 +94,7 @@
 </h1>
 <hr class="hr1" />
 <h3>
-  <img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbestanimations.com%2FAnimals%2FReptiles%2Fsnakes%2Fanimated-cobra-snake-gif-2.gif&f=1&nofb=1" width = 70 height = 70/>
+  <img src = "https://image.flaticon.com/icons/png/128/3662/3662068.png" width = 50 height = 50/>
   Snake game using Python
 </h3>
 <p style="font-family:perpetua;font-size:130%;">Who has not played the historic Snake game on Nokia mobile phones. Still, to this very day, people of all ages will have heard of Snake – they might have even played the original, or know an older person who has. I myself was addicted to the game back in my childhood. Though modern games have advanced user interfaces and better graphics, I still miss that excitement while playing them. I always wanted to recreate that excitement and feeling, Thanks to the programming languages which allow us to build such cool stuffs.
@@ -115,7 +115,7 @@
 </p>
 
 <h3>
-  <img src="https://media0.giphy.com/media/rxFW7n1NU7E6bwJ5ht/giphy.gif?cid=ecf05e4744p6phdsmu8nr73m9k0rixokm92401r15rsz1r62&rid=giphy.gif&ct=g" width = 65 height = 65 />
+  <img src="https://image.flaticon.com/icons/png/128/2199/2199469.png" width = 65 height = 65 />
   Face Detection
 </h3>
 <p style="font-family:perpetua;font-size:130%;">Face detection is the first and foremost step for face recognition. It is used to detect faces in images. Face detection is a part of object detection and can be used in many areas such as security, bio-metrics, law-enforcement, entertainment, personal safety etc.
