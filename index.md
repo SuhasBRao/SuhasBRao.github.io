@@ -44,7 +44,7 @@
   <hr class="hr1" />
 <!-- below is used to display image -->
   <p align = "center">
-  <img src = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/SuhasBRao/SuhasBRao.github.io/master/assets/Profile (2).jpg?&h=300&w=300&fit=cover&mask=circle&maxage=7d&l=8" />
+  <img src = "https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
   </p>
 <!-- About me -->
   <p align="center">
@@ -83,6 +83,8 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SuhasBRao)
+
+
 
 <!-- Project setion --->
 <p id = "Project">
