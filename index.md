@@ -1,10 +1,9 @@
 <h3 align = "center" >
   <img src = "https://i.pinimg.com/originals/d7/bd/f1/d7bdf125ad47c0a85af91b082478a28d.gif" width = 100 height = 100 /> Namaste!
 </h3>
-<!--> <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"> -->
+<!--link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" -->
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
 
-<!-- Style tag for buttons -->
 <style>
   .btn {
     background-color: DodgerBlue;
@@ -78,9 +77,9 @@
 </style>
 
 <a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;"><i class="ri-arrow-up-line"></i></a>
-<!--####################################################-->
 
-<!-- Fades in the button when you scroll down -->
+
+
 <script>
   var link = document.getElementById("back-to-top");
   var amountScrolled = 250;
@@ -92,7 +91,7 @@
           link.className = 'back-to-top';
       }
   });  
-<!-- Scrolls to Top -->
+
   link.addEventListener('click', function(e) {
       e.preventDefault();
 
