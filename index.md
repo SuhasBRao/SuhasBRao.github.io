@@ -3,8 +3,9 @@
 </h3>
 <!--> <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"> -->
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
-
+<link href="/assets/style.css" rel="stylesheet">
 <!-- Style tag for buttons -->
+<!---
 <style>
   .btn {
     background-color: DodgerBlue;
@@ -76,7 +77,7 @@
       80%{background-position:0%  50%, 50%  50%,100% 100%}
   }
 </style>
-
+--->
 <a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;"><i class="ri-arrow-up-line"></i></a>
 <!--####################################################-->
 

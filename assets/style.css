@@ -3,27 +3,72 @@
 
 @import "{{ site.theme }}";
 
-a.button1{
- display:inline-block;
- padding:0.35em 1.2em;
- border:0.1em solid #FFFFFF;
- margin:0 0.3em 0.3em 0;
- border-radius:0.12em;
- box-sizing: border-box;
- text-decoration:none;
- font-family:'Roboto',sans-serif;
- font-weight:300;
- color:#FFFFFF;
- text-align:center;
- transition: all 0.2s;
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  font-size: 20px;
+  cursor: pointer;
 }
-a.button1:hover{
- color:#000000;
- background-color:#FFFFFF;
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
 }
-@media all and (max-width:30em){
- a.button1{
-  display:block;
-  margin:0.4em auto;
- }
+/* style for remix-icons */
+/* ################################################################################*/
+
+/* Below is used to for go back to top button */
+/* ################################################################################*/
+.back-to-top {
+    background-color: DodgerBlue;
+    color: #FFFFFF;
+    opacity: 0;
+    transition: opacity .6s ease-in-out;
+    z-index: 999;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    border-radius: 50%;
+  }
+  a.back-to-top {
+    font-weight: 1000;
+    letter-spacing: 2px;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.6;
+    padding-left: 2px;
+    padding-top: 14px;
+  }
+  .back-to-top:hover {
+    background-color: RoyalBlue;
+    }
+  .back-to-top:focus, .back-to-top:visited {
+    color: white;
+  }
+  .back-to-top.show {
+    opacity: 1;
+  }
+/* side navigation bar */
+/* loader */
+.dots-3 {
+  width:50px;
+  height:24px;
+  background:
+    radial-gradient(circle closest-side,currentColor 90%,#0000) 0%   50%,
+    radial-gradient(circle closest-side,currentColor 90%,#0000) 50%  50%,
+    radial-gradient(circle closest-side,currentColor 90%,#0000) 100% 50%;
+  background-size:calc(100%/3) 12px;
+  background-repeat: no-repeat;
+  animation:d3 1s infinite linear;
+}
+@keyframes d3 {
+    20%{background-position:0%   0%, 50%  50%,100%  50%}
+    40%{background-position:0% 100%, 50%   0%,100%  50%}
+    60%{background-position:0%  50%, 50% 100%,100%   0%}
+    80%{background-position:0%  50%, 50%  50%,100% 100%}
 }
