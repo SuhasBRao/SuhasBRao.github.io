@@ -20,7 +20,7 @@
   }
   /* style for remix-icons */
   /* ################################################################################*/
-  
+
   /* Below is used to for go back to top button */
   /* ################################################################################*/
   .back-to-top {
@@ -61,7 +61,7 @@
   .dots-3 {
     width:50px;
     height:24px;
-    background: 
+    background:
       radial-gradient(circle closest-side,currentColor 90%,#0000) 0%   50%,
       radial-gradient(circle closest-side,currentColor 90%,#0000) 50%  50%,
       radial-gradient(circle closest-side,currentColor 90%,#0000) 100% 50%;
@@ -108,16 +108,15 @@
       var runAnimation = setInterval(animateScroll, 16);
   });
 </script>
- <!-- This function is used to create read more button -->
 
 <p id="about">
   <h1 align="left">
     <samp>
-      <img src = "https://image.flaticon.com/icons/png/128/1177/1177568.png" width = 50 height = 50 /> Whoami 
+      <img src = "https://image.flaticon.com/icons/png/128/1177/1177568.png" width = 50 height = 50 /> Whoami
     </samp>
   </h1>
 <!-- below is used to display image -->
-  <p align = "center"> 
+  <p align = "center">
   <img src = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/SuhasBRao/SuhasBRao.github.io/master/assets/Profile (2).jpg?&h=300&w=300&fit=cover&mask=circle&maxage=7d&l=8" />
   </p>
 <!-- About me -->
@@ -127,7 +126,7 @@
     I'm an artist who has also worked as a commission artist. Super positive and I always look forward for new adventures around Tech.
     </samp>
     <br><br>
-    <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=green alt="https://suhasbrao.github.io/" /> 
+    <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=green alt="https://suhasbrao.github.io/" />
     <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" color=green alt="https://github.com/SuhasBRao" /> -->
   </p>
 </p>
@@ -163,12 +162,12 @@
 <h1>
   <samp>
   <img src = "https://image.flaticon.com/icons/png/128/4005/4005054.png" width = 50 height = 50 />
-  Projects 
+  Projects
   </samp>
 </h1>
 
 <h3>
-  <img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbestanimations.com%2FAnimals%2FReptiles%2Fsnakes%2Fanimated-cobra-snake-gif-2.gif&f=1&nofb=1" width = 70 height = 70/> 
+  <img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbestanimations.com%2FAnimals%2FReptiles%2Fsnakes%2Fanimated-cobra-snake-gif-2.gif&f=1&nofb=1" width = 70 height = 70/>
   Snake game using Python
 </h3>
 <p style="font-family:perpetua;font-size:130%;">Who has not played the historic Snake game on Nokia mobile phones. Still, to this very day, people of all ages will have heard of Snake – they might have even played the original, or know an older person who has. I myself was addicted to the game back in my childhood. Though modern games have advanced user interfaces and better graphics, I still miss that excitement while playing them. I always wanted to recreate that excitement and feeling, Thanks to the programming languages which allow us to build such cool stuffs.
@@ -181,7 +180,7 @@
   <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fmicrophone-gif-12.gif&f=1&nofb=1" width = 50 height = 50 />
   Text to Speech Converter
 </h3>
-<p style="font-family:perpetua;font-size:130%;">The project aims to convert text to speech. This is achieved using gTTS engine which has very natural sounding voices. Python language has been used. Python allows us to write a neat and simple code to complete the work. Here the user needs to be connected to the internet while running the .py file. 
+<p style="font-family:perpetua;font-size:130%;">The project aims to convert text to speech. This is achieved using gTTS engine which has very natural sounding voices. Python language has been used. Python allows us to write a neat and simple code to complete the work. Here the user needs to be connected to the internet while running the .py file.
 <a href = "https://suhasbrao.github.io/Text-To-Speech/" >
   <button class="btn"> View more
   </button>
@@ -220,7 +219,7 @@ Face detection is an AI-based computer technology that can identify and locate t
   </a>
   &emsp;
   <a href="mailto:raos04567@gmail.com?subject=Hello%20Suhas B,%20From%20Github">
-    <img 
+    <img
       src = "https://image.flaticon.com/icons/png/128/552/552486.png"
       width = 50
       height = 50   
@@ -228,7 +227,7 @@ Face detection is an AI-based computer technology that can identify and locate t
   </a>
   &emsp;
   <a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
-    <img 
+    <img
       src = "https://image.flaticon.com/icons/png/128/185/185964.png"
       width = 50
       height = 50   
@@ -236,7 +235,7 @@ Face detection is an AI-based computer technology that can identify and locate t
   </a>
   &emsp;
   <a href="https://www.quora.com/profile/Suhas-Rao-66">
-    <img 
+    <img
       src = "https://image.flaticon.com/icons/png/128/185/185976.png"
       width = 50
       height = 50   
