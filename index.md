@@ -1,5 +1,5 @@
 <h3 align = "center" >
-  <img src = "https://cdn.iconscout.com/icon/premium/png-128-thumb/namaste-3754435-3136262.png" width = 70 height = 70 /> Namaste!
+  <img src = "/assets/header.gif" width = 1000 height = 200 /> Namaste!
 </h3>
 
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
