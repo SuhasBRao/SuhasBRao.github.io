@@ -8,8 +8,7 @@
   height: 40px;
   top: 48%;
   left: 48%;
-  position: relative;
-  margin: 100px auto;
+  position: absolute;
 }
 
 .double-bounce1, .double-bounce2 {
