@@ -1,11 +1,6 @@
 <!--<h3 align = "center" >
   <img src = "/assets/header.gif" width = 1000 height = 200 /> Namaste!
 </h3>
--->
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
-<link href="/assets/style.css" rel="stylesheet">
-
-<a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;"><i class="ri-arrow-up-line"></i></a>
 
 <script>
   var link = document.getElementById("back-to-top");
@@ -18,7 +13,7 @@
           link.className = 'back-to-top';
       }
   });  
-<!-- Scrolls to Top -->
+
   link.addEventListener('click', function(e) {
       e.preventDefault();
 
