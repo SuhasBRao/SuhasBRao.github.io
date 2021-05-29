@@ -1,7 +1,7 @@
-<h3 align = "center" >
+<!--<h3 align = "center" >
   <img src = "/assets/header.gif" width = 1000 height = 200 /> Namaste!
 </h3>
-
+-->
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
 <link href="/assets/style.css" rel="stylesheet">
 
