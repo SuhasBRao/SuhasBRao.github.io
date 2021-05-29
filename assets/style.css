@@ -2,6 +2,71 @@
 ---
 
 @import "{{ site.theme }}";
+/* style for my sites pre-loader */ 
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  align-items: center;
+  justify-items: center;
+  background-color: #111;
+}
+
+.dots {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.dot {
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+}
+
+/* Style One */
+
+.dot1 .dot:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.dot1 .dot:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.dot1 .dot:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+.dot1 .dot {
+  border-radius: 50%;
+  animation: outSide 1.2s linear forwards infinite;
+}
+
+@keyframes outSide {
+  50% {
+    transform: translateY(0) rotate(0deg);
+    filter: blur(0);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateY(-800px) rotate(-720deg);
+    filter: blur(50px);
+    opacity: 0;
+  }
+}
 
 .hr1{
   border:0;
