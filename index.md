@@ -1,88 +1,10 @@
-<h3 align = "center" >
-  <img src = "https://i.pinimg.com/originals/d7/bd/f1/d7bdf125ad47c0a85af91b082478a28d.gif" width = 100 height = 100 /> Namaste!
+<!--<h3 align = "center" >
+  <img src = "/assets/header.gif" width = 1000 height = 200 /> Namaste!
 </h3>
-<!--link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" -->
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
-
-<style>
-  .btn {
-    background-color: DodgerBlue;
-    border: none;
-    color: white;
-    padding: 5px 10px;
-    font-size: 20px;
-    cursor: pointer;
-  }
-  /* Darker background on mouse-over */
-  .btn:hover {
-    background-color: RoyalBlue;
-  }
-  /* style for remix-icons */
-  /* ################################################################################*/
-  
-  /* Below is used to for go back to top button */
-  /* ################################################################################*/
-  .back-to-top {
-      background-color: DodgerBlue;
-      color: #FFFFFF;
-      opacity: 0;
-      transition: opacity .6s ease-in-out;
-      z-index: 999;
-      position: fixed;
-      right: 20px;
-      bottom: 20px;
-      width: 50px;
-      height: 50px;
-      box-sizing: border-box;
-      border-radius: 50%;
-    }
-    a.back-to-top {
-      font-weight: 1000;
-      letter-spacing: 2px;
-      font-size: 14px;
-      text-transform: uppercase;
-      text-align: center;
-      line-height: 1.6;
-      padding-left: 2px;
-      padding-top: 14px;
-    }
-    .back-to-top:hover {
-      background-color: RoyalBlue;
-      }
-    .back-to-top:focus, .back-to-top:visited {
-      color: white;
-    }
-    .back-to-top.show {
-      opacity: 1;
-    }
-  /* side navigation bar */
-  /* loader */
-  .dots-3 {
-    width:50px;
-    height:24px;
-    background: 
-      radial-gradient(circle closest-side,currentColor 90%,#0000) 0%   50%,
-      radial-gradient(circle closest-side,currentColor 90%,#0000) 50%  50%,
-      radial-gradient(circle closest-side,currentColor 90%,#0000) 100% 50%;
-    background-size:calc(100%/3) 12px;
-    background-repeat: no-repeat;
-    animation:d3 1s infinite linear;
-  }
-  @keyframes d3 {
-      20%{background-position:0%   0%, 50%  50%,100%  50%}
-      40%{background-position:0% 100%, 50%   0%,100%  50%}
-      60%{background-position:0%  50%, 50% 100%,100%   0%}
-      80%{background-position:0%  50%, 50%  50%,100% 100%}
-  }
-</style>
-
-<a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;"><i class="ri-arrow-up-line"></i></a>
-
-
 
 <script>
   var link = document.getElementById("back-to-top");
-  var amountScrolled = 250;
+  var amountScrolled = 500;
 
   window.addEventListener('scroll', function(e) {
       if ( window.pageYOffset > amountScrolled ) {
@@ -107,26 +29,26 @@
       var runAnimation = setInterval(animateScroll, 16);
   });
 </script>
- <!-- This function is used to create read more button -->
 
 <p id="about">
   <h1 align="left">
     <samp>
-      <img src = "https://image.flaticon.com/icons/png/128/1177/1177568.png" width = 50 height = 50 /> Whoami 
+      <img src = "https://image.flaticon.com/icons/png/128/1177/1177568.png" width = 50 height = 50 /> Whoami
     </samp>
   </h1>
+  <hr class="hr1" />
 <!-- below is used to display image -->
-  <p align = "center"> 
-  <img src = "https://images.weserv.nl/?url=https://raw.githubusercontent.com/SuhasBRao/SuhasBRao.github.io/master/assets/Profile (2).jpg?&h=300&w=300&fit=cover&mask=circle&maxage=7d&l=8" />
+  <p align = "center">
+  <img src = "https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
   </p>
 <!-- About me -->
   <p align="center">
-    <samp>Pursuing B.E in Electronics and Communication. Passionate about implementing and launching new projects. I'm more of a self learner who loves to learn from internet apart from classroom. <br>Ever since I started using Linux in my first year of college, I’m exploring its nuts and bolts.
+    <samp>I'm Suhas, I'm Pursuing B.E in Electronics and Communication. Passionate about implementing and launching new projects. I'm more of a self learner who loves to learn from internet apart from classroom. <br>Ever since I started using Linux in my first year of college, I’m exploring its nuts and bolts.
     Open source Enthusiast and passionate about coding.
     I'm an artist who has also worked as a commission artist. Super positive and I always look forward for new adventures around Tech.
     </samp>
     <br><br>
-    <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=green alt="https://suhasbrao.github.io/" /> 
+    <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=green alt="https://suhasbrao.github.io/" />
     <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" color=green alt="https://github.com/SuhasBRao" /> -->
   </p>
 </p>
@@ -138,37 +60,39 @@
   Technologies
  </samp>
 </h1>
-
-##### Languages
+<hr class="hr1" />
+<h4>Languages:</h4>
 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c++&logoColor=white&style=for-the-badge" />
 
-##### Libraries:
+<h4>Libraries:</h4>
 
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv5&logoColor=white&style=for-the-badge" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy3&logoColor=white&style=for-the-badge" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
 
-##### Version Control System:
+<h4>Version Control System:</h4>
 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SuhasBRao)
+
+
 
 <!-- Project setion --->
 <p id = "Project">
 <h1>
   <samp>
   <img src = "https://image.flaticon.com/icons/png/128/4005/4005054.png" width = 50 height = 50 />
-  Projects 
+  Projects
   </samp>
 </h1>
-
+<hr class="hr1" />
 <h3>
-  <img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fbestanimations.com%2FAnimals%2FReptiles%2Fsnakes%2Fanimated-cobra-snake-gif-2.gif&f=1&nofb=1" width = 70 height = 70/> 
-  Snake game using Python
+  <img src = "https://image.flaticon.com/icons/png/128/3662/3662068.png" width = 50 height = 50/>
+  Snake game using Python:
 </h3>
 <p style="font-family:perpetua;font-size:130%;">Who has not played the historic Snake game on Nokia mobile phones. Still, to this very day, people of all ages will have heard of Snake – they might have even played the original, or know an older person who has. I myself was addicted to the game back in my childhood. Though modern games have advanced user interfaces and better graphics, I still miss that excitement while playing them. I always wanted to recreate that excitement and feeling, Thanks to the programming languages which allow us to build such cool stuffs.
 <a href = "https://suhasbrao.github.io/Snake-game/">
@@ -178,9 +102,9 @@
 
 <h3>
   <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fmicrophone-gif-12.gif&f=1&nofb=1" width = 50 height = 50 />
-  Text to Speech Converter
+  Text to Speech Converter:
 </h3>
-<p style="font-family:perpetua;font-size:130%;">The project aims to convert text to speech. This is achieved using gTTS engine which has very natural sounding voices. Python language has been used. Python allows us to write a neat and simple code to complete the work. Here the user needs to be connected to the internet while running the .py file. 
+<p style="font-family:perpetua;font-size:130%;">The project aims to convert text to speech. This is achieved using gTTS engine which has very natural sounding voices. Python language has been used. Python allows us to write a neat and simple code to complete the work. Here the user needs to be connected to the internet while running the .py file.
 <a href = "https://suhasbrao.github.io/Text-To-Speech/" >
   <button class="btn"> View more
   </button>
@@ -188,8 +112,8 @@
 </p>
 
 <h3>
-  <img src="https://media0.giphy.com/media/rxFW7n1NU7E6bwJ5ht/giphy.gif?cid=ecf05e4744p6phdsmu8nr73m9k0rixokm92401r15rsz1r62&rid=giphy.gif&ct=g" width = 65 height = 65 />
-  Face Detection
+  <img src="https://image.flaticon.com/icons/png/128/2199/2199469.png" width = 65 height = 65 />
+  Face Detection:
 </h3>
 <p style="font-family:perpetua;font-size:130%;">Face detection is the first and foremost step for face recognition. It is used to detect faces in images. Face detection is a part of object detection and can be used in many areas such as security, bio-metrics, law-enforcement, entertainment, personal safety etc.
 Face detection is an AI-based computer technology that can identify and locate the presence of human faces in digital photos and videos. Due to the advancements in face detection technology, It is now possible to detect faces in an image or video, regardless of head pose, lighting conditions, and skin tone
@@ -198,15 +122,14 @@ Face detection is an AI-based computer technology that can identify and locate t
   </button>
 </a></p>
 
-<h4> More projects </h4>
-<section align = "center">
+<h3> More projects </h3>
 <div class="dots-3"></div>
-</section>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- Reach me on section -->
 <h1  align="left">&#x1F4EC; Reach me on</h1>
+<hr class="hr1" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p id = "reach_me_on" align = "center" >
   <a href="https://www.instagram.com/suhasbrao/">
@@ -219,7 +142,7 @@ Face detection is an AI-based computer technology that can identify and locate t
   </a>
   &emsp;
   <a href="mailto:raos04567@gmail.com?subject=Hello%20Suhas B,%20From%20Github">
-    <img 
+    <img
       src = "https://image.flaticon.com/icons/png/128/552/552486.png"
       width = 50
       height = 50   
@@ -227,7 +150,7 @@ Face detection is an AI-based computer technology that can identify and locate t
   </a>
   &emsp;
   <a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
-    <img 
+    <img
       src = "https://image.flaticon.com/icons/png/128/185/185964.png"
       width = 50
       height = 50   
@@ -235,7 +158,7 @@ Face detection is an AI-based computer technology that can identify and locate t
   </a>
   &emsp;
   <a href="https://www.quora.com/profile/Suhas-Rao-66">
-    <img 
+    <img
       src = "https://image.flaticon.com/icons/png/128/185/185976.png"
       width = 50
       height = 50   
