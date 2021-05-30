@@ -130,6 +130,12 @@ Face detection is an AI-based computer technology that can identify and locate t
 <h3> More projects </h3>
 <div class="dots-3"></div>
 
+<h1  align="left"><img src="https://image.flaticon.com/icons/png/128/2490/2490354.png" width= 50 height = 50 /> Achiements and Accomplishments</h1>
+<hr class="hr1" />
+<a href="https://drive.google.com/file/d/1GcJ3FPRdHaV3cHab1WY9BhOIS4QeYNmJ/view?usp=sharing">
+    <img src="/assets/reduced.jpg" />
+</a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- Reach me on section -->
