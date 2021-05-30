@@ -122,7 +122,7 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 /* style for my pdf certificate */
 
-img {
+.image {
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
@@ -130,6 +130,6 @@ img {
 }
 
 /* Add a hover effect (blue shadow) */
-img:hover {
+.image:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
