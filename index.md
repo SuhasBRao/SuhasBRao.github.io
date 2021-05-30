@@ -141,7 +141,7 @@ Face detection is an AI-based computer technology that can identify and locate t
     <img class="my" src="/assets/time_management.jpg" />
   </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <!-- Reach me on section -->
 <h1  align="left">&#x1F4EC; Reach me on</h1>
