@@ -36,9 +36,9 @@
 </script>
 
 <p id="about">
-  <h2 align="left">
+  <h2 align="left" style="font-family:perpetua,arial,helvetica;">
     <samp>
-      <img src = "https://image.flaticon.com/icons/png/128/1177/1177568.png" width = 50 height = 50 /> Whoami
+      <img src = "https://image.flaticon.com/icons/png/128/1177/1177568.png" width = 45 height = 45 /> Whoami
     </samp>
   </h2>
   <hr class="hr1" />
@@ -48,7 +48,7 @@
   </p>
 <!-- About me -->
   <p align="center">
-    <samp>I'm Suhas, I'm Pursuing B.E in Electronics and Communication. Passionate about implementing and launching new projects. I'm more of a self learner who loves to learn from internet apart from classroom. <br>Ever since I started using Linux in my first year of college, I’m exploring its nuts and bolts.
+    <samp>I'm Suhas, I'm Pursuing B.E in Electronics and Communication. Passionate about implementing and launching new projects. I'm more of a self learner who loves to learn from internet apart from classroom. Ever since I started using Linux in my first year of college, I’m exploring its nuts and bolts.
     Open source Enthusiast and passionate about coding.
     I'm an artist who has also worked as a commission artist. Super positive and I always look forward for new adventures around Tech.
     </samp>
@@ -59,7 +59,7 @@
 </p>
 
 <!-- Tools and Technology section -->
-<h2 align = "left" >
+<h2 align = "left" style="font-family:perpetua,arial,helvetica;" >
  <samp>
   <img src = "https://image.flaticon.com/icons/png/128/1087/1087840.png" width = 50 height = 50 />
   Technologies
@@ -88,15 +88,15 @@
 
 <!-- Project setion --->
 <p id = "Project">
-<h2>
+<h2 style="font-family:perpetua,arial,helvetica;">
   <samp>
-  <img src = "https://image.flaticon.com/icons/png/128/4005/4005054.png" width = 50 height = 50 />
+  <img src = "https://image.flaticon.com/icons/png/128/4005/4005054.png" width = 45 height = 45 />
   Projects
   </samp>
 </h2>
 <hr class="hr1" />
 <h3>
-  <img src = "https://image.flaticon.com/icons/png/128/3662/3662068.png" width = 50 height = 50/>
+  <img src = "https://image.flaticon.com/icons/png/128/3662/3662068.png" width = 40 height = 40/>
   Snake game using Python:
 </h3>
 <p style="font-family:perpetua,arial,helvetica;font-size:135%;">Who has not played the historic Snake game on Nokia mobile phones. Still, to this very day, people of all ages will have heard of Snake – they might have even played the original, or know an older person who has. I myself was addicted to the game back in my childhood. Though modern games have advanced user interfaces and better graphics, I still miss that excitement while playing them. I always wanted to recreate that excitement and feeling, Thanks to the programming languages which allow us to build such cool stuffs.
@@ -106,7 +106,7 @@
 </a></p>
 
 <h3>
-  <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fmicrophone-gif-12.gif&f=1&nofb=1" width = 50 height = 50 />
+  <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fmicrophone-gif-12.gif&f=1&nofb=1" width = 40 height = 40 />
   Text to Speech Converter:
 </h3>
 <p style="font-family:perpetua,arial,helvetica;font-size:135%;">The project aims to convert text to speech. This is achieved using gTTS engine which has very natural sounding voices. Python language has been used. Python allows us to write a neat and simple code to complete the work. Here the user needs to be connected to the internet while running the .py file.
@@ -117,7 +117,7 @@
 </p>
 
 <h3>
-  <img src="https://image.flaticon.com/icons/png/128/2199/2199469.png" width = 65 height = 65 />
+  <img src="https://image.flaticon.com/icons/png/128/2199/2199469.png" width = 40 height = 40 />
   Face Detection:
 </h3>
 <p style="font-family:perpetua,arial,helvetica;font-size:135%;">Face detection is the first and foremost step for face recognition. It is used to detect faces in images. Face detection is a part of object detection and can be used in many areas such as security, bio-metrics, law-enforcement, entertainment, personal safety etc.
@@ -132,22 +132,17 @@ Face detection is an AI-based computer technology that can identify and locate t
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<h2  align="left"><img src="https://image.flaticon.com/icons/png/128/2490/2490354.png" width= 50 height = 50 /> Achievements and Accomplishments</h2>
+<h2  style="font-family:perpetua,arial,helvetica;" align="left"><img src="https://image.flaticon.com/icons/png/128/2490/2490354.png" width= 50 height = 50 /> Achievements and Accomplishments</h2>
 <hr class="hr1" />
-
-<p style = "font-family:arial,courier,helvetica;">
 <a href="https://drive.google.com/file/d/1GcJ3FPRdHaV3cHab1WY9BhOIS4QeYNmJ/view?usp=sharing"> 
-    <img class="my left" src="/assets/reduced.jpg" style="width:170px;height:170px;margin-right:15px;" /></a> Certificate of completion from e-Yantra team for successfully completing all the tasks in <b>e-Yantra Robotics Competition(eYRC 2020-21)</b>.<p>
-    
-<br>
+    <img class="my" src="/assets/reduced.jpg" style="width:170px;height:170px;margin-right:15px;" /></a>
 
-<p style = "font-family:arial,courier,helvetica;">
 <a href="https://drive.google.com/file/d/1Psz4Zya2jeJ7cmhUnwSZJTr3E1ypYyFQ/view?usp=sharing"> 
-  <img class="my right" src="/assets/time_management.jpg" style="width:170px;height:170px;margin-right:15px;" /></a>Course completion certificate authorized by <b>University of California</b>, Irvine and offered through Coursera.<p>
+  <img class="my" src="/assets/time_management.jpg" style="width:170px;height:170px;margin-right:15px;" /></a>
 
 <br>
 
-<h2  align="left">&#x1F4EC; Reach me on</h2>
+<h2 style="font-family:perpetua,arial,helvetica;" align="left">&#x1F4EC; Reach me on</h2>
 <hr class="hr1" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p id = "reach_me_on" align = "center" >
