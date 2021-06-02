@@ -135,11 +135,11 @@ Face detection is an AI-based computer technology that can identify and locate t
 <h1  align="left"><img src="https://image.flaticon.com/icons/png/128/2490/2490354.png" width= 50 height = 50 /> Achievements and Accomplishments</h1>
 <hr class="hr1" />
 <p style = "font-family:arial,courier,helvetica;"><a href="https://drive.google.com/file/d/1GcJ3FPRdHaV3cHab1WY9BhOIS4QeYNmJ/view?usp=sharing">
-    <img class="my float_left" src="/assets/reduced.jpg" /></a> Certificate of completion from e-Yantra team for successfully completing all the tasks in <b>e-Yantra Robotics Competition(eYRC 2020-21)</b>.
+    <img class="my left" src="/assets/reduced.jpg" /></a> Certificate of completion from e-Yantra team for successfully completing all the tasks in <b>e-Yantra Robotics Competition(eYRC 2020-21)</b>.
 <p>
 
 <p style = "font-family:arial,courier,helvetica;"><a href="https://drive.google.com/file/d/1Psz4Zya2jeJ7cmhUnwSZJTr3E1ypYyFQ/view?usp=sharing">
-    <img class="my float_right" src="/assets/time_management.jpg" />
+    <img class="my right" src="/assets/time_management.jpg" />
   </a>Course completion certificate authorized by <b>University of California</b>, Irvine and offered through Coursera.
   <p>
 
