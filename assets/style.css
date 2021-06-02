@@ -121,22 +121,22 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     80%{background-position:0%  50%, 50%  50%,100% 100%}
 }
 /* style for my pdf certificate */
-.float_right{
-  float: right;
-}
-.float_left{
-  float: left;
-}
 
 .my {
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
   width: 150px; /* Set a small width */
-  float:right;
+  
 }
 
 /* Add a hover effect (blue shadow) */
 .my:hover {
   box-shadow: 0 0 2px 1px rgba(0, 139, 186, 0.849);
+}
+.my.float_right{
+  float: right;
+}
+.my.float_left{
+  float: left;
 }
