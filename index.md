@@ -142,8 +142,8 @@ Face detection is an AI-based computer technology that can identify and locate t
 <a href="https://drive.google.com/file/d/1Psz4Zya2jeJ7cmhUnwSZJTr3E1ypYyFQ/view?usp=sharing"> 
   <img class="my right" src="/assets/time_management.jpg" style="width:170px;height:170px;margin-right:15px;" /></a>Course completion certificate authorized by <b>University of California</b>, Irvine and offered through Coursera.<p>
 
+<br>
 
-<!-- Reach me on section -->
 <h1  align="left">&#x1F4EC; Reach me on</h1>
 <hr class="hr1" />
 &nbsp;&nbsp;&nbsp;&nbsp;
