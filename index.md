@@ -44,7 +44,7 @@
   <hr class="hr1" />
 <!-- below is used to display image -->
   <p align = "center">
-  <img src = "https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
+  <img src = "https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt = 'Suhas'/>
   </p>
 <!-- About me -->
   <p align="center">
@@ -99,7 +99,7 @@
   <img src = "https://image.flaticon.com/icons/png/128/3662/3662068.png" width = 50 height = 50/>
   Snake game using Python:
 </h3>
-<p style="font-family:perpetua;font-size:130%;">Who has not played the historic Snake game on Nokia mobile phones. Still, to this very day, people of all ages will have heard of Snake – they might have even played the original, or know an older person who has. I myself was addicted to the game back in my childhood. Though modern games have advanced user interfaces and better graphics, I still miss that excitement while playing them. I always wanted to recreate that excitement and feeling, Thanks to the programming languages which allow us to build such cool stuffs.
+<p style="font-family:perpetua,arial,helvetica;font-size:135%;">Who has not played the historic Snake game on Nokia mobile phones. Still, to this very day, people of all ages will have heard of Snake – they might have even played the original, or know an older person who has. I myself was addicted to the game back in my childhood. Though modern games have advanced user interfaces and better graphics, I still miss that excitement while playing them. I always wanted to recreate that excitement and feeling, Thanks to the programming languages which allow us to build such cool stuffs.
 <a href = "https://suhasbrao.github.io/Snake-game/">
   <button class="btn"> View more
   </button>
@@ -109,7 +109,7 @@
   <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fmicrophone-gif-12.gif&f=1&nofb=1" width = 50 height = 50 />
   Text to Speech Converter:
 </h3>
-<p style="font-family:perpetua;font-size:130%;">The project aims to convert text to speech. This is achieved using gTTS engine which has very natural sounding voices. Python language has been used. Python allows us to write a neat and simple code to complete the work. Here the user needs to be connected to the internet while running the .py file.
+<p style="font-family:perpetua,arial,helvetica;font-size:135%;">The project aims to convert text to speech. This is achieved using gTTS engine which has very natural sounding voices. Python language has been used. Python allows us to write a neat and simple code to complete the work. Here the user needs to be connected to the internet while running the .py file.
 <a href = "https://suhasbrao.github.io/Text-To-Speech/" >
   <button class="btn"> View more
   </button>
@@ -120,7 +120,7 @@
   <img src="https://image.flaticon.com/icons/png/128/2199/2199469.png" width = 65 height = 65 />
   Face Detection:
 </h3>
-<p style="font-family:perpetua;font-size:130%;">Face detection is the first and foremost step for face recognition. It is used to detect faces in images. Face detection is a part of object detection and can be used in many areas such as security, bio-metrics, law-enforcement, entertainment, personal safety etc.
+<p style="font-family:perpetua,arial,helvetica;font-size:135%;">Face detection is the first and foremost step for face recognition. It is used to detect faces in images. Face detection is a part of object detection and can be used in many areas such as security, bio-metrics, law-enforcement, entertainment, personal safety etc.
 Face detection is an AI-based computer technology that can identify and locate the presence of human faces in digital photos and videos. Due to the advancements in face detection technology, It is now possible to detect faces in an image or video, regardless of head pose, lighting conditions, and skin tone
 <a href = 'https://suhasbrao.github.io/FaceDetection/' >
   <button class="btn"> View more
@@ -134,12 +134,14 @@ Face detection is an AI-based computer technology that can identify and locate t
 
 <h1  align="left"><img src="https://image.flaticon.com/icons/png/128/2490/2490354.png" width= 50 height = 50 /> Achievements and Accomplishments</h1>
 <hr class="hr1" />
-<a href="https://drive.google.com/file/d/1GcJ3FPRdHaV3cHab1WY9BhOIS4QeYNmJ/view?usp=sharing">
-    <img class="my" src="/assets/reduced.jpg" />
-</a>&emsp;
-<a href="https://drive.google.com/file/d/1Psz4Zya2jeJ7cmhUnwSZJTr3E1ypYyFQ/view?usp=sharing">
-    <img class="my" src="/assets/time_management.jpg" />
-  </a>
+<p style = "font-family:arial,courier,helvetica;"><a href="https://drive.google.com/file/d/1GcJ3FPRdHaV3cHab1WY9BhOIS4QeYNmJ/view?usp=sharing">
+    <img class="my float_left" src="/assets/reduced.jpg" /> Certificate of completion from e-Yantra team for successfully completing all the tasks in <b>e-Yantra Robotics Competition(eYRC 2020-21)</b>.
+</a><p>
+
+<p style = "font-family:arial,courier,helvetica;"><a href="https://drive.google.com/file/d/1Psz4Zya2jeJ7cmhUnwSZJTr3E1ypYyFQ/view?usp=sharing">
+    <img class="my float_right" src="/assets/time_management.jpg" />
+  </a>Course completion certificate authorized by <b>University of California</b>, Irvine and offered through Coursera.
+  <p>
 
 
 
