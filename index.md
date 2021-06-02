@@ -49,9 +49,8 @@
 <!-- About me -->
   <p align="center">
     <samp>I'm Suhas, I'm Pursuing B.E in Electronics and Communication. Passionate about implementing and launching new projects. I'm more of a self learner who loves to learn from internet apart from classroom. 
-    <br>
     Ever since I started using Linux in my first year of college, I’m exploring its nuts and bolts.
-    Open source Enthusiast and passionate about coding.
+    Open source Enthusiast and passionate about coding.<br>
     I'm an artist who has also worked as a commission artist. Super positive and I always look forward for new adventures around Tech.
     </samp>
     <br><br>
