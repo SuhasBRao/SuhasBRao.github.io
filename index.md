@@ -6,53 +6,6 @@
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
 <link href="/assets/style.css" rel="stylesheet">
 
-<script>
-  let overlay = document.querySelector(".menu_overlay");
-  let open = document.querySelector(".fa-bars");
-  let close = document.querySelector(".fa-times");
-  open.addEventListener("click", () => {
-    overlay.style.transform = "translateY(0)";
-  });
-  close.addEventListener("click", () => {
-    overlay.style.transform = "translateY(-110%)";
-  });
-  function findObjectCoords(e) {
-    let dot = document.querySelector(".dot");
-    dot.style.left = `${e.clientX - 20}px`;
-    dot.style.top = `${e.clientY - 20}px`;
-  }
-  document.querySelector(".menu_overlay").addEventListener("mousemove", (e) => {
-    findObjectCoords(e);
-  });
-</script>
-
-<div class="container">
-  <div class="menu_overlay">
-    <i class="fas fa-times"></i>
-    <ul class="list">
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
-      <li><a href="#">Projects</a></li>
-      <li><a href="#">Contact</a></li>
-    </ul>
-    <div class="dot"></div>
-  </div>
-  <div class="landing_page">
-    <div class="menu">
-      <i class="fas fa-bars"></i>
-    </div>
-    </div>
-    <div class="main_text">
-      <div class="text_h2 h2-r">Suhas</div>
-      <div class="text_h2 h2-l">Rao</div>
-    </div>
-  </div>
-</div>
-
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
-<script src="https://kit.fontawesome.com/a7e9f794eb.js" crossorigin="anonymous"></script>
-
 <a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;"><i class="ri-arrow-up-line"></i></a>
 
 <script>
