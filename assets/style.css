@@ -335,13 +335,13 @@ body {
   z-index: 0;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 800px) {
   .list a {
     font-size: 1.4rem;
   }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 300px) {
   .list {
     display: flex;
     flex-direction: column;
