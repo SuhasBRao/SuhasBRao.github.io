@@ -10,7 +10,7 @@
 
 <script>
   var link = document.getElementById("back-to-top");
-  var amountScrolled = 500;
+  var amountScrolled = 800;
 
   window.addEventListener('scroll', function(e) {
       if ( window.pageYOffset > amountScrolled ) {
