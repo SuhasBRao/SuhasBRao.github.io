@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 /* style for my sites pre-loader */
-.body {
+body {
   max-width: 800px;
   margin: auto;
 } 
