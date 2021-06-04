@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 /* style for my sites pre-loader */
 .content {
-  max-width: 600px;
+  max-width: 800px;
   margin: auto;
 }
 .spinner {
