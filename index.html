@@ -16,6 +16,55 @@
   </head>
 
   <body>
+    <script>
+      let overlay = document.querySelector(".menu_overlay");
+      let open = document.querySelector(".fa-bars");
+      let close = document.querySelector(".fa-times");
+
+      open.addEventListener("click", () => {
+        overlay.style.transform = "translateY(0)";
+      });
+
+      close.addEventListener("click", () => {
+        overlay.style.transform = "translateY(-110%)";
+      });
+
+      function findObjectCoords(e) {
+        let dot = document.querySelector(".dot");
+        dot.style.left = `${e.clientX - 20}px`;
+        dot.style.top = `${e.clientY - 20}px`;
+      }
+
+      document.querySelector(".menu_overlay").addEventListener("mousemove", (e) => {
+        findObjectCoords(e);
+      });
+    </script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a7e9f794eb.js" crossorigin="anonymous"></script>
+
+    <div class="container">
+      <div class="menu_overlay">
+        <i class="fas fa-times"></i>
+        <ul class="list">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+        <div class="dot"></div>
+      </div>
+      <div class="landing_page">
+        <div class="menu">
+          <i class="fas fa-bars"></i>
+        </div>
+        <div class="main_text">
+          <div class="text_h2 h2-r">Suhas</div>
+          <div class="text_h2 h2-l">Rao</div>
+        </div>
+      </div>
+    </div>
+    
   <div class="content">
     <a href="https://suhasbrao.github.io/" id="back-to-top" class="back-to-top" style="display: inline;"><i class="ri-arrow-up-line"></i></a>
 
@@ -59,7 +108,7 @@
       <img src = "https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt = 'Suhas'/>
       </p>
     <!-- About me -->
-      <p align="center" style="font-family:perpetua,arial,helvetica;font-size:150%;" >
+      <p align="center" style="font-family:perpetua,helvetica,arial;font-size:150%;" >
         I'm Suhas, I'm Pursuing B.E in Electronics and Communication. Passionate about implementing and launching new projects. I'm more of a self learner who loves to learn from internet apart from classroom. 
         Ever since I started using Linux in my first year of college, I’m exploring its nuts and bolts.
         Open source Enthusiast and passionate about coding.<br>
