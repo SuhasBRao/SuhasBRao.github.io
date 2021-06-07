@@ -3,7 +3,35 @@
 
 @import "{{ site.theme }}";
 /* style for my sites pre-loader */
+
+a.button1{
+ display:inline-block;
+ padding:0.35em 1.2em;
+ border:0.1em solid #FFFFFF;
+ margin:0 0.3em 0.3em 0;
+ border-radius:0.12em;
+ box-sizing: border-box;
+ text-decoration:none;
+ font-family:'Roboto',sans-serif;
+ font-weight:300;
+ color:#FFFFFF;
+ text-align:center;
+ transition: all 0.2s;
+}
+a.button1:hover{
+ color:#000000;
+ background-color:#FFFFFF;
+}
+@media all and (max-width:30em){
+ a.button1{
+  display:block;
+  margin:0.4em auto;
+ }
+}
+
 .content {
+  line-height: 2.5rem;
+  font-weight: 400;
   max-width: 600px;
   margin: auto;
 }
@@ -152,11 +180,7 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .body {
-  font-family: "helvetica";
-  font-size: 62.5%;
-  /*overflow-x: hidden; */
-  max-width: 500px;
-  margin:auto;
+  background-image: url('https://graphicdesignjunction.com/wp-content/uploads/2012/08/minimal-background-pattern-wordpress-11.jpg')
 }
 
 .container {
@@ -290,5 +314,3 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     flex-direction: column;
   }
 }
-
-
