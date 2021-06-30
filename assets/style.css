@@ -261,8 +261,8 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 .div {
   padding: 20px;
   text-align: justify;
-  box-shadow: 0 8px 26px 0 rgba(0,0,0,0.2), 0 8px 20px 0 rgba(0,0,0,0.19)
-    ;
+  display: inline;
+  box-shadow: 0 8px 26px 0 rgba(0,0,0,0.2), 0 8px 20px 0 rgba(0,0,0,0.19);
  }
 .div:hover {
   transform: scale3d(1.03,1.03,1.03);
