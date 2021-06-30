@@ -7,47 +7,9 @@
   line-height: 2.5rem;
   font-weight: 400;
   max-width: 600px;
-  justify-content: center;
+  
   margin: auto;
 }
-.spinner {
-  width: 40px;
-  height: 40px;
-  background-color: #333;
-  position: absolute;
-  top: 48%;
-  left: 48%;
-  -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
-  animation: sk-rotateplane 1.2s infinite ease-in-out;
-}
-
-@-webkit-keyframes sk-rotateplane {
-  0% { -webkit-transform: perspective(120px) }
-  50% { -webkit-transform: perspective(120px) rotateY(180deg) }
-  100% { -webkit-transform: perspective(120px) rotateY(180deg)  rotateX(180deg) }
-}
-
-@keyframes sk-rotateplane {
-  0% { 
-    transform: perspective(120px) rotateX(0deg) rotateY(0deg);
-    -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg) 
-  } 50% { 
-    transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
-    -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg) 
-  } 100% { 
-    transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
-    -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
-  }
-}
-.spinner-wrapper {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ff6347;
-  z-index: 999999;
-  }
 
 .hr1{
   border:0;
@@ -70,6 +32,7 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 /* Darker background on mouse-over */
 .btn:hover {
   background-color: RoyalBlue;
+  transform: scale3d(1.09,1.09,1.09);
 }
 
 .back-to-top {
@@ -106,7 +69,7 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
       opacity: 1;
     }
   .back-to-top {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 15px 20px 0 rgba(0,0,0,0.19);
   }
 
 /* loader */
@@ -211,8 +174,15 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   text-shadow: 0 0 1px #111;
   display: flex;
   flex-direction: column;
+  animation: top-down 1s linear;
   
 }
+
+@keyframes top-down{
+  from {top: 0% };
+  to {top:50%};
+}
+  
 
 .h2-r,
 .h2-l {
@@ -285,4 +255,15 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   0%{ opacity: 1;}
   100%{ opacity: 0;
     transform: translate(-10px, -10px);}
+}
+
+/* Style for div tags */
+.div {
+  padding: 20px;
+  text-align: justify;
+  box-shadow: 0 8px 26px 0 rgba(0,0,0,0.2), 0 8px 20px 0 rgba(0,0,0,0.19)
+    ;
+ }
+.div:hover {
+  transform: scale3d(1.03,1.03,1.03);
 }
