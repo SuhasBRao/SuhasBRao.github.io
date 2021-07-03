@@ -22,8 +22,8 @@ h3{
 }
 p {
   font-size: 18px;
+  text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  text-align: justify;
 }
 .hr1{
   border:0;
@@ -216,8 +216,8 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   margin-left: auto;
   background-color: #542E71;
   padding: 30px;
-  font-weight: 600;
   z-index: 0;
+  font-weight: 600;
   
 }
 
