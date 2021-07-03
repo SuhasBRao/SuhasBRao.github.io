@@ -23,6 +23,7 @@ h3{
 p {
   font-size: 18px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: justify;
 }
 .hr1{
   border:0;
