@@ -10,6 +10,20 @@
   margin: 0px auto 0px auto;
 }
 
+h2 {
+  font-size: 26px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+h3{
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  
+}
+p {
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .hr1{
   border:0;
   height: 3px;
@@ -164,7 +178,7 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .main_text {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Fuggles', cursive;
   color: white;
   position: absolute;
   left: 50%;
@@ -191,8 +205,8 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 
 .h2-r {
   transform: rotate(0deg);
-  margin-left: auto;
-  z-index: 10;
+  margin: auto;
+  /*z-index: 10; */
   
 }
 
@@ -258,7 +272,7 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 
 /* Style for div tags */
 .div {
-  padding: 20px;
+  padding: 10px;
   text-align: justify;
   /*box-shadow: 0 8px 26px 0 rgba(0,0,0,0.2), 0 8px 20px 0 rgba(0,0,0,0.19);*/
  }
@@ -267,3 +281,4 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   transform: scale3d(1.03,1.03,1.03);
 }
 */
+
