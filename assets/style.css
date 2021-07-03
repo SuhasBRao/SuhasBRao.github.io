@@ -7,7 +7,7 @@
   line-height: 2.5rem;
   font-weight: 400;
   max-width: 650px;
-  margin: auto;
+  margin: 0px auto 0px auto;
 }
 
 .hr1{
@@ -260,8 +260,10 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 .div {
   padding: 20px;
   text-align: justify;
-  box-shadow: 0 8px 26px 0 rgba(0,0,0,0.2), 0 8px 20px 0 rgba(0,0,0,0.19);
+  /*box-shadow: 0 8px 26px 0 rgba(0,0,0,0.2), 0 8px 20px 0 rgba(0,0,0,0.19);*/
  }
+ /*
 .div:hover {
   transform: scale3d(1.03,1.03,1.03);
 }
+*/
