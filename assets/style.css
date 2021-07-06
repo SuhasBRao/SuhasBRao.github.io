@@ -293,7 +293,6 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 */
 
 .project-img-left {
-  
   float:left;
   width: 20%;
   height: 20%;
@@ -308,11 +307,20 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   margin-left: 20px;
   
 }
-.projects-row {
-  width: 50%;
-  padding: 100px;
-  margin: 0 auto 0 auto;
+.project-row {
+  padding: 10px;
   
 }
 
-
+.project-row:hover {
+  transform: scale3d(1.03,1.03,1.03);
+  box-shadow: 0 8px 26px 0 rgba(0,0,0,0.2), 0 8px 20px 0 rgba(0,0,0,0.19);
+  background-color: lightblue;
+  }
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  color: black;
+}
